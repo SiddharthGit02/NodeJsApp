@@ -1,0 +1,24 @@
+{
+  "name": "k8s-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "[![Nodejs Docker Kubernetes Deployment](https://img.youtube.com/vi/ASlu3NG7J5k/0.jpg)](https://www.youtube.com/watch?v=ASlu3NG7J5k)",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmalvia/Nodejs_Docker_Kubernetes_Deployment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmalvia/Nodejs_Docker_Kubernetes_Deployment/issues"
+  },
+  "homepage": "https://github.com/dmalvia/Nodejs_Docker_Kubernetes_Deployment#readme"
+}
